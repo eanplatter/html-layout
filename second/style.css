@@ -1,0 +1,29 @@
+.display-inline {
+  display:inline-block;
+}
+
+.float-left {
+  float:left;
+}
+
+.left-panel {
+  background: #287F55;
+  width: 40%;
+  height:1934px;
+}
+
+.center-panel {
+  background: #F10E0E;
+  width: 37%;
+  height:1934px;
+}
+
+.right-panel {
+  background: #000;
+  width: 23%;
+  height:1500px;
+}
+
+.bottom-right-corner-image {
+  max-width:23%;
+}
