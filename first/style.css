@@ -1,0 +1,41 @@
+.main-top {
+  background: #CF5D5D;
+  width:100%;
+  height:1000px;
+  clear:both;
+}
+
+.float-left {
+  float:left;
+}
+
+.display-inline {
+  display:inline-block;
+}
+
+
+.left-panel {
+  background: #287F55;
+  width: 35%;
+  height: 2000px;
+
+}
+
+.right-panel {
+  background: #287F55;
+  width:27%;
+  height:2000px;
+}
+
+.center-panel {
+  background: #D3BB0D;
+  width:38%;
+  height:1500px;
+}
+
+.center-footer {
+  background: #2DAE2D;
+  width:38%;
+  height: 500px;
+  margin: -500px 27% 0 35%;
+}
